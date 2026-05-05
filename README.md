@@ -23,9 +23,11 @@
 
 ---
 
-### Let's connect:
+### Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaskoyama)
+
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lckoyama/lckoyama/output/github-contribution-grid-snake-dark.svg">
